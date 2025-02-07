@@ -1,3 +1,9 @@
+"""
+src : https://leetcode.com/problems/group-anagrams/
+author : Seoyeon Kang
+date : 06/02/2025
+"""
+
 from collections import Counter
 
 class Solution(object):
