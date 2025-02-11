@@ -1,5 +1,5 @@
 """
-src : https://leetcode.com/problems/longest-consecutive-sequence/description/
+src : https://leetcode.com/problems/valid-palindrome/description/
 author : Seoyeon Kang
 date : 11/02/2025
 """
