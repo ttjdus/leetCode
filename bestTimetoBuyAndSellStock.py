@@ -1,5 +1,5 @@
 """
-src : https://leetcode.com/problems/3sum/
+src : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 author : Seoyeon Kang
 date : 14/02/2025
 """
